@@ -1,0 +1,24 @@
+{
+	"testdata":[
+	{
+	   "flag":"validlogin",
+	    "data":[
+	     {
+	     "runmode":"Y",
+	     "email":"user1@test.com",
+	     "password":"123"
+	     }
+	    ]		
+	},
+	{
+	   "flag":"invalidlogin",
+	    "data":[
+	     {
+	     "runmode":"Y",
+	     "email":"baduser@test.com",
+	     "password":"123"
+	     }
+	    ]	
+	 }
+  ]
+}

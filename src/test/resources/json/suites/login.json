@@ -1,0 +1,22 @@
+{
+   "suitename":"Login Suite",
+     "testcases":[
+      { 
+       "name":"Login",
+	   "executions":[
+		   {
+		   "runmode":"Y",
+		   "executionname":"Valid Login",
+		   "dataflag":"validlogin",
+		   "methods":["login"]
+		   },
+		     {
+		   "runmode":"Y",
+		   "executionname":"InValid Login",
+		   "dataflag":"invalidlogin",
+		   "methods":["login"]
+		   }
+	    ] 
+      }
+    ]
+}

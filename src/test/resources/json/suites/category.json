@@ -1,0 +1,27 @@
+{
+   "suitename":"Category Suite",
+     "testcases":[
+      { 
+       "name":"Find Category",
+	   "executions":[
+		   {
+		   "runmode":"Y",
+		   "executionname":"Find Category",
+		   "dataflag":"findCategory",
+		   "methods":["findCategory"]
+		   }
+	    ] 
+      },
+      { 
+       "name":"Search Category",
+	   "executions":[
+		   {
+		   "runmode":"Y",
+		   "executionname":"Search Category",
+		   "dataflag":"searchCategory",
+		   "methods":["searchCategory"]
+		   }
+	    ] 
+      }
+   ]
+}

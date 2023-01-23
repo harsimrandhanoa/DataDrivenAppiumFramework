@@ -1,0 +1,16 @@
+{
+   "suitename":"SignUp Suite",
+     "testcases":[
+      { 
+       "name":"Create User",
+	   "executions":[
+		   {
+		   "runmode":"Y",
+		   "executionname":"Create New User",
+		   "dataflag":"createnewuser",
+		   "methods":["signUp"]
+		   }
+	   ] 
+      }
+    ]
+}

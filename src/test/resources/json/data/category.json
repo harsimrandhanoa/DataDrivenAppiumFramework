@@ -1,0 +1,23 @@
+{
+	"testdata":[
+	{
+	   "flag":"findCategory",
+	    "data":[
+	     {
+	     "runmode":"Y",
+	     "categoryName":"Handicrafts"
+	     }
+	    ]		
+	},
+	{
+	   "flag":"searchCategory",
+	    "data":[
+	     {
+	     "runmode":"Y",
+	     "categoryName":"Computers"
+	     }
+	    ]		
+	}
+	
+  ]
+}

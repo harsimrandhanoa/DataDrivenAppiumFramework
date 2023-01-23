@@ -1,0 +1,21 @@
+{
+	"testdata":[
+	{
+	   "flag":"createnewuser",
+	    "data":[
+	     {
+	     "runmode":"Y",
+	     "email":"user1@test.com",
+	     "password":"123",
+	     "city":"Baroda"
+	     },
+	     {
+	     "runmode":"Y",
+	     "email":"user2@test.com",
+	     "password":"12345",
+	     "city":"Amritsar"
+	     }
+	    ]		
+	}
+  ]
+}

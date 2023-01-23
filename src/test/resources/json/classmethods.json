@@ -1,0 +1,16 @@
+{
+    "classdetails":[
+		{
+		 "class":"com.appium.ddf.testcases.CreateUser",
+		 "methods":["signUp"]
+		},
+		{
+		 "class":"com.appium.ddf.testcases.Login",
+		 "methods":["login"]
+		},
+		{
+		 "class":"com.appium.ddf.testcases.Category",
+		 "methods":["searchCategory","findCategory"]
+		}
+	]
+}

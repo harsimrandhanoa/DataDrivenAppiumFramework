@@ -1,0 +1,28 @@
+{
+"platforms":["Android"],
+"parallelsuites":"1",
+"testsuites":[
+	{
+	 "runmode":"Y",
+	 "name":"SignUp Suite",
+	 "testdatajsonfile":"data//signup.json",
+	 "suitefilename":"suites//signup.json",
+	 "paralleltests":"N"
+	},
+	{
+	 "runmode":"Y",
+	 "name":"Login Suite",
+	 "testdatajsonfile":"data//login.json",
+	 "suitefilename":"suites//login.json",
+	 "paralleltests":"N"
+	},
+	{
+	 "runmode":"Y",
+	 "name":"Category Suite",
+	 "testdatajsonfile":"data//category.json",
+	 "suitefilename":"suites//category.json",
+	 "paralleltests":"N"
+	}
+]
+
+}
