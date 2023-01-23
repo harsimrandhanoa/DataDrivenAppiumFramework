@@ -10,7 +10,7 @@ public class Login extends BaseTest {
 
 	@Test
 	public void login(ITestContext context) {
-		app.log("Starting test :- login");
+		app.log("Starting test :- Login");
 
 		JSONObject data = (JSONObject) context.getAttribute("data");
 		app.log("Data is " + String.valueOf(data));
